@@ -22,7 +22,19 @@ REFERENCE
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Database
 - https://github.com/WeareSoft/tech-interview/blob/master/contents/db.md
 
-### 컴퓨터-구조
+### 소프트웨어공학
+
+| 파트 | 진행상태             | 학습시간 | 강의내용                     | 비고 |
+| ---- | -------------------- | -------- | ---------------------------- | ---- |
+| 1    | :white_large_square: | 1        | TDD(Test Driven Development) |      |
+| 2    | :white_large_square: |          | Agile                        |      |
+| 3    | :white_large_square: |          | DevOps                       |      |
+| 4    | :white_large_square: |          | Cleancode & Refactoring      |      |
+| 5    | :white_large_square: |          | Functional Programming       |      |
+| 6    | :white_large_square: |          | Object-Oriented Programming  |      |
+| 7    | :white_large_square: |          | 3rd party                    |      |
+
+### 컴퓨터구조
 
 |파트|진행상태|학습시간|강의내용|비고|
 | ------ | ------ | ------ | ------ | ------ |
