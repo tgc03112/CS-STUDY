@@ -23,6 +23,7 @@
 REFERENCE
 
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Database
+- https://github.com/WeareSoft/tech-interview/blob/master/contents/db.md
 
 ### 컴퓨터-구조
 
