@@ -1,6 +1,13 @@
 # CS 학습 플랜/정리 템플릿
 과목별 추천 동영상 강의를 중심으로 진도를 추적하고 배운 내용을 정리하기 위한 템플릿
 
+|                      |      월      |  화  |  수  |  목  |  금  | 토   | 일   |
+| :------------------: | :----------: | :--: | :--: | :--: | :--: | ---- | ---- |
+| 1주차(03.02 ~ 03.05) | 데이터베이스 |      |      |      |      |      |      |
+|                      |              |      |      |      |      |      |      |
+|                      |              |      |      |      |      |      |      |
+|                      |              |      |      |      |      |      |      |
+
 ### 컴퓨터-구조
 |파트|진행상태|학습시간|강의내용|비고|
 | ------ | ------ | ------ | ------ | ------ |
@@ -53,3 +60,14 @@
 |2| :white_large_square: |2| [9장 TCP 연결지향형](네트워크/9장-TCP-연결지향형.md) | |
 |2| :white_large_square: |1| [10장 NAT와 포트포워딩](네트워크/10장-NAT와-포트포워딩.md) | |
 |2| :white_large_square: |2| [11장 HTTP 프로토콜](네트워크/11장-HTTP-프로토콜.md) | |
+
+## REFERENCE
+
+- https://github.com/WeareSoft
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+- https://github.com/gyoogle/tech-interview-for-developer
+- https://github.com/Today-I-Learn/backend-study
+- https://github.com/brave-people/brave-tech-interview
+- https://github.com/ksundong/backend-interview-question
+- https://www.youtube.com/c/dongbinna
+- https://github.com/SSAFY-CS-STUDY/Tech_interview
