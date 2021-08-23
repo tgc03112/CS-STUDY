@@ -9,7 +9,7 @@
 
 | 파트 | 진행상태             | 학습시간 | 강의내용                       | 비고 |
 | ---- | -------------------- | -------- | ------------------------------ | ---- |
-| 1    | :white_large_square: | 1        | 데이터베이스                   |      |
+| 1    | :white_check_mark: | 1        | 데이터베이스                   |      |
 | 2    | :white_large_square: |          | INDEX                          |      |
 | 3    | :white_large_square: |          | 정규화에 대해서                |      |
 | 4    | :white_large_square: |          | Transaction                    |      |
