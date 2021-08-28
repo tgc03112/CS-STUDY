@@ -12,7 +12,7 @@ CS 학습 플랜/정리 템플릿
 | ---- | -------------------- | -------- | ------------------------------ | ---- |
 | 1    | :white_check_mark: | 1        | 데이터베이스                   |      |
 | 2    | :white_check_mark: | 2 | INDEX                          |      |
-| 3    | :white_check_mark: | 1 | 정규화                |      |
+| 3    | :white_check_mark: | 1 | 정규화               |      |
 | 4    | :white_large_square: |          | Transaction                    |      |
 | 5    | :white_large_square: |          | 교착상태                       |      |
 | 6    | :white_large_square: |          | Statement vs PreparedStatement |      |
