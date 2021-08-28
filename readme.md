@@ -28,7 +28,7 @@ REFERENCE
 | 파트 | 진행상태             | 학습시간 | 강의내용                     | 비고 |
 | ---- | -------------------- | -------- | ---------------------------- | ---- |
 | 1    | :white_check_mark:   | 1        | TDD(Test Driven Development) |      |
-| 2    | :white_large_square: | 2        | Agile                        |      |
+| 2    | :white_check_mark:   | 2        | Agile                        |      |
 | 3    | :white_large_square: |          | DevOps                       |      |
 | 4    | :white_large_square: |          | Cleancode & Refactoring      |      |
 | 5    | :white_large_square: |          | Functional Programming       |      |
