@@ -5,6 +5,7 @@ CS 학습 플랜/정리 템플릿
 |                      |         월          |         화          |          수           |          목           |         금          | 토   | 일   |
 | :------------------: | :-----------------: | :-----------------: | :-------------------: | :-------------------: | :-----------------: | ---- | ---- |
 | 1주차(08.23 ~ 08.29) | 데이터베이스 part_1 | 데이터베이스 part_2 | 소프트웨어공학 part_1 | 소프트웨어공학 part_2 | 데이터베이스 part_3 |      |      |
+| 3주차(09.06 ~ 09.12) | 데이터베이스 part_4 |                     |                       |                       |                     |      |      |
 
 ### 데이터베이스
 
@@ -13,7 +14,7 @@ CS 학습 플랜/정리 템플릿
 | 1    | :white_check_mark: | 1        | 데이터베이스                   |      |
 | 2    | :white_check_mark: | 2 | INDEX                          |      |
 | 3    | :white_check_mark: | 1 | 정규화               |      |
-| 4    | :white_large_square: |          | Transaction                    |      |
+| 4    | :white_check_mark: | 1 | Transaction                    |      |
 | 5    | :white_large_square: |          | 교착상태                       |      |
 | 6    | :white_large_square: |          | Statement vs PreparedStatement |      |
 | 7    | :white_large_square: |          | NoSQL                          |      |
